@@ -23,10 +23,10 @@
 
 ## 🛠 Skills
 
-- 💻 **Languages:** Java, JavaFX, Spring Boot (basics), REST APIs
-- 🤖 **Bot Platforms:** Telegram Bot API, Discord API, custom shell bots
-- 🛠 **Tools:** IntelliJ, Git, Maven, SQLite/MySQL, Gradle
-- 🌍 **Freelance Ready:** Clean code, fast delivery, full support
+- 💻 **Languages:** Java, JavaFX, Spring Boot (basics), REST APIs  
+- 🤖 **Bot Platforms:** Telegram Bot API, Discord API, custom shell bots  
+- 🛠 **Tools:** IntelliJ, Git, Maven, SQLite/MySQL, Gradle  
+- 🌍 **Freelance Ready:** Clean code, fast delivery, full support  
 
 ---
 
@@ -44,25 +44,20 @@
 
 ## 📲 Connect With Me
 
-<div align="center">
-
+<p align="center">
   <a href="https://t.me/funny_aza" target="_blank">
-    <img src="https://img.shields.io/badge/-@funny_aza-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-🔵%20funny_aza-111827?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=111827&color=purple" alt="Telegram" style="border-radius:20px"/>
   </a>&nbsp;
-  
   <a href="https://www.linkedin.com/in/abdulaziz-rasulov-b1850721b/" target="_blank">
-    <img src="https://img.shields.io/badge/-Abdulaziz%20Rasulov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-🔹%20Abdulaziz%20Rasulov-111827?style=for-the-badge&logo=linkedin&logoColor=deepskyblue&labelColor=111827&color=purple" alt="LinkedIn" style="border-radius:20px"/>
   </a>&nbsp;
-  
   <a href="https://www.upwork.com/freelancers/~0177f85724f28c5739" target="_blank">
-    <img src="https://img.shields.io/badge/-Hire%20me%20on%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white&label=Upwork" alt="Upwork Badge"/>
+    <img src="https://img.shields.io/badge/Upwork-💼%20Hire%20Me-111827?style=for-the-badge&logo=upwork&logoColor=lime&labelColor=111827&color=purple" alt="Upwork" style="border-radius:20px"/>
   </a>&nbsp;
-  
   <a href="https://www.fiverr.com/aziz_rasulov" target="_blank">
-    <img src="https://img.shields.io/badge/-aziz_rasulov%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&label=Fiverr" alt="Fiverr Badge"/>
+    <img src="https://img.shields.io/badge/Fiverr-💚%20aziz_rasulov-111827?style=for-the-badge&logo=fiverr&logoColor=lime&labelColor=111827&color=purple" alt="Fiverr" style="border-radius:20px"/>
   </a>
-
-</div>
+</p>
 
 ---
 
@@ -74,4 +69,3 @@ I’m quick to respond, passionate about my work, and ready to build your perfec
 ---
 
 ### ⭐ Let’s automate the world — one bot at a time.
-
