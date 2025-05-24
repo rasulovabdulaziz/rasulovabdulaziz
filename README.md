@@ -44,20 +44,25 @@
 
 ## 📲 Connect With Me
 
-<p align="center">
+<div align="center">
+
   <a href="https://t.me/funny_aza" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-@funny_aza-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram" alt="Telegram Badge"/>
+  </a>&nbsp;
+  
   <a href="https://www.linkedin.com/in/abdulaziz-rasulov-b1850721b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-Abdulaziz%20Rasulov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  
   <a href="https://www.upwork.com/freelancers/~0177f85724f28c5739" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-Hire%20me%20on%20Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white&label=Upwork" alt="Upwork Badge"/>
+  </a>&nbsp;
+  
   <a href="https://www.fiverr.com/aziz_rasulov" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+    <img src="https://img.shields.io/badge/-aziz_rasulov%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&label=Fiverr" alt="Fiverr Badge"/>
   </a>
-</p>
+
+</div>
 
 ---
 
